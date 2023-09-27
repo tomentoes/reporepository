@@ -49,6 +49,10 @@
   <p>This was closer to the end of our tour before we went shopping, there were lots of buff guys pulling people around in carts.</p>
   <br>
   <br>
-  <img src="pond thing.jpg" alt="pond with greenery" title="I don't know what they're called, but they look like tall lilipads on top of water">
-  
+  <img src="pond thing.jpg" alt="pond with greenery" title="A group of lotuses growing on a body of water at the Tenryu-ji Temple in Japan">
+  <p>We were walking back to the tour bus, but I thought these were really pretty so I went off to the side for like 10 seconds to take this photo.</p>
+  <br>
+  <br>
+  <img src="japan tour bus.jpg" alt="japan tour bus" title="A view from inside our tour bus in Japan">
+  <p>Everyone was sleeping and we were in a tunnel that made the outside look unique, so I took a photo to capture the moment.</p>
 </body>
