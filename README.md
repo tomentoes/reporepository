@@ -17,4 +17,8 @@
   <br>
   <img src="tagaytay at night.jpg" alt="night view of Tagaytay" title="The view of the city from a hotel that I was staying at.">
   <p>It was probably one of the fanciest hotels I've been to, besides the fact that they only had one employee working the restaurant at night so it took an hour to get our food.</p>
+  <br>
+  <br>
+  <img src="sleep cat.jpg" alt="a sleeping cat" title="A cat asleep next to a window at one of the malls">
+  <p>I remember telling everyone that I was with "Guys, look at the sleping cat, it's so cute!"</p>
 </body>
