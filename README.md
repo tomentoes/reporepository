@@ -55,4 +55,7 @@
   <br>
   <img src="japan tour bus.jpg" alt="japan tour bus" title="A view from inside our tour bus in Japan">
   <p>Everyone was sleeping and we were in a tunnel that made the outside look unique, so I took a photo to capture the moment.</p>
+  <br>
+  <br>
+  <p>Since you finished reading this whole thing, why don't you follow me on <a href="https://www.roblox.com/users/174988145/profile"> Roblox</a>? 😇</p>
 </body>
